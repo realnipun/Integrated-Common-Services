@@ -1,0 +1,15 @@
+{
+    "name": "common-services-portal",
+    "version": "1.0.0",
+    "description": "A portal for common services like healthcare, education, financial services, and transportation.",
+    "main": "server/app.js",
+    "scripts": {
+      "start": "node server/app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
